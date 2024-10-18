@@ -29,7 +29,7 @@ fi
 read -p "Enter age: " age
 
 if (( age < 13 )); then
-    echo "Child"
+    echo "bacha"
 elif (( age >= 13 && age <= 19 )); then
     echo "Teenager"
 elif (( age > 60 )); then
